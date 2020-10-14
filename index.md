@@ -42,6 +42,8 @@ Contact us, now!
 
 +41 79 123-34-56
 
+:)
+
 
 ### How-To
 
