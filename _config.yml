@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: Kokodi - Lerntafeln
 description: konzentriert lernen - kooperativ lernen - didaktisch agil
+highlighter: rouge
+plugins:
+    - jemoji
+    - rouge
+    - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-seo-tag
