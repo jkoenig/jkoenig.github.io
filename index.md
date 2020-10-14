@@ -41,3 +41,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 Contact us, now!
 
 +41 79 123-34-56
+
+
+### How-To
+
+You don't know how? Watch this video tutorial:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
