@@ -9,4 +9,5 @@ plugins:
     - jekyll-feed
     - jekyll-seo-tag
 collections:
-    - docs
+  docs:
+    output: true
