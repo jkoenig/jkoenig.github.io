@@ -5,3 +5,7 @@ highlighter: rouge
 plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
+collections:
+  staff_members:
+    people: true
+    output: true    
