@@ -1,6 +1,5 @@
 ---
 Title: Welcome to my site
-category: gettting-started
 ---
 
 ## Welcome to GitHub Pages

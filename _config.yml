@@ -3,11 +3,7 @@ title: Kokodi - Lerntafeln
 description: konzentriert lernen - kooperativ lernen - didaktisch agil
 highlighter: rouge
 plugins:
-    - jemoji
-    - rouge
     - jekyll-sitemap
-    - jekyll-feed
     - jekyll-seo-tag
 collections:
-  docs:
-    output: true
+    - docs
