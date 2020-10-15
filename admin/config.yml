@@ -5,8 +5,7 @@ backend:
   api_root: https://api.github.com
   base_url: https://api.netlify.com
   auth_endpoint: auth  
-  media_folder: assets/uploads
-  media_library: uploads  
+media_folder: assets/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
