@@ -18,6 +18,11 @@
   -->
   <div data-netlify-identity-button>Login with Netlify Identity</div>
   <script>
+      
+      netlifyIdentity.init({
+        APIUrl: 'https://elastic-murdock-2a5d31.netlify.app/.netlify/identity'
+      });
+      
       // Open the modal
       netlifyIdentity.open();
 
