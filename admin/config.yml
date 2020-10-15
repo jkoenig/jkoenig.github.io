@@ -1,7 +1,12 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: jkoenig/jkoenig.github.io
   branch: master
-media_folder: assets/uploads
+  api_root: https://api.github.com
+  base_url: https://api.netlify.com
+  auth_endpoint: auth  
+  media_folder: assets/uploads
+  media_library: uploads  
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
