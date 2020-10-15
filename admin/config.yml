@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: gitub
+  repo: jkoenig/jkoenig.github.io
   branch: master
 media_folder: assets/uploads
 collections:
