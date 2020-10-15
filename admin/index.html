@@ -11,6 +11,15 @@
   <script>
     CMS.registerPreviewStyle("/assets/css/main.min.css");
   </script>
+    
+  <script>
+      const netlifyIdentity = require('netlify-identity-widget');
+
+      netlifyIdentity.init({
+        APIUrl: 'https://elastic-murdock-2a5d31.netlify.app/.netlify/identity';
+      });
+    
+  </script>
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
