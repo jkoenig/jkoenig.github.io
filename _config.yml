@@ -5,5 +5,3 @@ highlighter: rouge
 plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
-collections:
-    - docs

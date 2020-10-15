@@ -36,11 +36,13 @@
 
     <main id="content" class="main-content" role="main">
         <h3>Navigation</h3>
-        <ul>
-            {% for doc in site.docs %}
-                <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-            {% endfor %}
-        </ul>
+<ul>
+  {% for doc in site.docs %}
+    <li>
+      <a href="{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
         
       {{ content }}
 
