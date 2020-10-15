@@ -1,5 +1,6 @@
 ---
-Title: How to deploy
+title: How to deploy
+layout: doc
 category: deployment
 ---
 

@@ -1,5 +1,6 @@
 ---
-Title: Let's get started now
+title: Let's get started now
+layout: doc
 category: gettting-started
 ---
 

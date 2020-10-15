@@ -1,5 +1,6 @@
 ---
-Title: Config-stuff
+title: Config-stuff
+layout: doc
 category: configuration
 ---
 
