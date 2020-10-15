@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jkoenit/jkoenig.github.io
+  repo: jkoenig/jkoenig.github.io
   branch: master
   media_folder: "assets/uploads" 
   media_library:
