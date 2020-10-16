@@ -3,7 +3,7 @@ backend:
   repo: jkoenig/jkoenig.github.io
   branch: master
   api_root: https://api.github.com
-  site_domain: jkoenig.github.io
+  site_domain: heuristic-pare-5ca4ce.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
