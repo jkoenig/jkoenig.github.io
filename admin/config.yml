@@ -2,9 +2,6 @@ backend:
   name: github
   repo: jkoenig/jkoenig.github.io
   branch: master
-  api_root: https://api.github.com
-  base_url: https://api.netlify.com
-  auth_endpoint: auth  
 media_folder: assets/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
