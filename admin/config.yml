@@ -2,13 +2,12 @@ backend:
   name: github
   repo: jkoenig/jkoenig.github.io
   branch: master
-  api_root: https://api.github.com
   site_domain: heuristic-pare-5ca4ce.netlify.app
-  site_url: https://koenig.github.io
-  display_url: https://koenig.github.io
-  base_url: https://jkoenig.github.io
+  base_url: https://api.github.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
+  site_url: https://jkoenig.github.io
+  display_url: https://jkoenig.github.io  
 media_folder: assets/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
