@@ -1,13 +1,10 @@
 backend:
   name: git-gateway
-  repo: jkoenig/jkoenig.github.io
   branch: master
   site_domain: heuristic-pare-5ca4ce.netlify.app
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
   cms_label_prefix: netlify-cms/
-  site_url: https://jkoenig.github.io
-  display_url: https://jkoenig.github.io  
+  site_url: https://heuristic-pare-5ca4ce.netlify.app
+  display_url: https://heuristic-pare-5ca4ce.netlify.app
 media_folder: assets/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
