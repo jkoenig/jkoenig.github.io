@@ -2,9 +2,6 @@ backend:
   name: git-gateway
   branch: master
   site_domain: heuristic-pare-5ca4ce.netlify.app
-  cms_label_prefix: netlify-cms/
-  site_url: https://heuristic-pare-5ca4ce.netlify.app
-  display_url: https://heuristic-pare-5ca4ce.netlify.app
 media_folder: assets/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
