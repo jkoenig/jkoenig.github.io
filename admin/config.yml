@@ -24,7 +24,7 @@ collections:
   - name: "staff-members"
     label: "Staff Members" 
     folder: "_staff_members/" 
-    slug: "{{title}}"
+    slug: "{{name}}"
     create: true 
     fields: 
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
