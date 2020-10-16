@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Kokodi - Lerntafeln
-description: konzentriert lernen - kooperativ lernen - didaktisch agil
+title: jkeonig.github.io
+description: build - deloy - run
 highlighter: rouge
 plugins:
     - jekyll-sitemap
