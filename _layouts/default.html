@@ -74,14 +74,14 @@
       <hr>
       <div>
           <h3>Our Team</h3>
+            <ul>
       {% for staff_member in site.staff_members %}
-        <h6>
-          <a href="{{ staff_member.url }}">
-            {{ staff_member.name }} - {{ staff_member.position }}
-          </a>
-        </h2>
-        <p>{{ staff_member.content | markdownify }}</p>
+              <li>
+                <div><a href="{{ staff_member.url }}"> {{ staff_member.name }} - {{ staff_member.position }}</a></div>
+                <p>{{ staff_member.content | markdownify }}</p>
+              </li>
       {% endfor %}
+            </ul>
       </div>
 
       <footer class="site-footer">
