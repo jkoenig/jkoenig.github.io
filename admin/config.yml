@@ -6,7 +6,7 @@ backend:
   site_domain: heuristic-pare-5ca4ce.netlify.app
   site_url: https://koenig.github.io
   display_url: https://koenig.github.io
-  base_url: https://api.netlify.com
+  base_url: https://koenig.github.io
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
 media_folder: assets/uploads
