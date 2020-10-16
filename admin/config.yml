@@ -21,4 +21,13 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "category", widget: "string"}
       - {label: "Tags", name: "tags", widget: "string"}
+  - name: "staff-members"
+    label: "Staff Members" 
+    folder: "_staff_members/" 
+    create: true 
+    slug: "{{slug}}"
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}      
       
