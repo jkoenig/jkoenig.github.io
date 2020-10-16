@@ -1,6 +1,9 @@
 ---
-title: Config-stuff
 layout: post
+title: Config-stuff
+date: 2020-10-16T14:48:45.015Z
+thumbnail: /assets/uploads/_thi9674.jpg
+rating: -3
 category: configuration
 tags: howtos config
 ---
