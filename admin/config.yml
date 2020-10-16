@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: jkoenig/jkoenig.github.io
   branch: master
   site_domain: heuristic-pare-5ca4ce.netlify.app
