@@ -3,7 +3,8 @@ layout: default
 city: San Francisco
 ---
 <p>{{ page.date }} - Written by {{ page.author }}</p>
-<p>{{ layout.city }}</p>
-<p>{{layout.thumbnail}}</p>
+<p>city: {{ layout.city }}</p>
+<p>thumbnail: {{ layout.thumbnail}}</p>
+<p>rating: {{ layout.rating}}</p>
 
 {{ content }}
