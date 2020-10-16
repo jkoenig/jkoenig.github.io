@@ -1,10 +1,10 @@
 ---
 layout: default
-city: San Francisco
 ---
 <p>{{ page.date }} - Written by {{ page.author }}</p>
-<p>city: {{ page.city }}</p>
+{% if page.thumbnail %}
 <img src="{{ page.thumbnail }}" alt="{{ page.title }}" width="42">
+{% endif %}
 <p>rating: {{ page.rating}}</p>
 
 {{ content }}
