@@ -13,4 +13,4 @@ tags: Jerkyll welcome
 
 I hope you like it!
 
-Halllo Lukas!
+Hallo Lukas!
